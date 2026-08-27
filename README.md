@@ -16,7 +16,7 @@ It maintains a registry of available ServiceHub services and allows services to 
 | Student ID | 241711077 |
 | Project | ServiceHub |
 | Component | Eureka Server |
-| GCP Project ID | Not created yet |
+| GCP Project ID | project-a6d8ea92-fb5d-4ed6-99d |
 
 ---
 
